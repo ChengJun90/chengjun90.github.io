@@ -14,8 +14,8 @@ layout: default
 
 # [资本市场与数据分析-选集](https://zhuanlan.zhihu.com/staranalysts)
 **学习笔记:**
-- [R语言进阶 | 非标准计算base](https://zhuanlan.zhihu.com/p/27652748)
-- [R语言进阶 | 非标准计算tidyeval](https://zhuanlan.zhihu.com/p/27652771)
+- [R语言进阶-非标准计算base](https://zhuanlan.zhihu.com/p/27652748)
+- [R语言进阶-非标准计算tidyeval](https://zhuanlan.zhihu.com/p/27652771)
 - [R语言函数式编程purrr的应用](https://zhuanlan.zhihu.com/p/26888325)
 - [模拟、嵌套与回归：函数式编程purrr](https://zhuanlan.zhihu.com/p/26949422)
 - [R语言与应用计量经济学](https://zhuanlan.zhihu.com/p/22574659)
@@ -41,7 +41,7 @@ layout: default
 # [Julia学习笔记-选集](https://zhuanlan.zhihu.com/julia)
 - [纯Julia编写普通最小二乘法(OLS)](https://zhuanlan.zhihu.com/p/28128470)
 - [Julia缺失值的表示和处理](https://zhuanlan.zhihu.com/p/30485472)
-- [Julia宏 | @which](https://zhuanlan.zhihu.com/p/28641919)
+- [Julia宏-@which](https://zhuanlan.zhihu.com/p/28641919)
 
 **Juilia系列基本学习笔记：**
 - [数据类型](https://zhuanlan.zhihu.com/p/26411005)
@@ -56,17 +56,19 @@ layout: default
 
 
 # 博士阶段课程
-- 基础课
-高级微观经济学
-高级计量经济学
+- 基础课  
+高级微观经济学  
+高级计量经济学  
 高级管理学
-- 专业研究课
-资本市场与公司财务研究
-公司财务研究前沿专题研讨
-高级会计研究
-会计与财务研究方法论
+
+- 专业研究课  
+资本市场与公司财务研究  
+公司财务研究前沿专题研讨  
+高级会计研究  
+会计与财务研究方法论  
 公司治理
-- 交流学者课
+
+- 交流学者课   
+Empirical research on financial reporting and disclosure  
+Empirical research in voluntary reporting  
 Seminars on corporate social responsibility
-Empirical research on financial reporting and disclosure
-Empirical research in voluntary reporting
