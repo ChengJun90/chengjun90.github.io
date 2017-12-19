@@ -2,10 +2,19 @@
 layout: default
 ---
 
-# 主要专栏笔记
-- [资本市场与数据分析](https://zhuanlan.zhihu.com/staranalysts)
-- [Julia学习笔记](https://zhuanlan.zhihu.com/julia)
-- [R语言快报](https://zhuanlan.zhihu.com/rstats)
+# 主要研究方向
+- 资本市场财务与会计
+- 企业创新投资
+
+---
+
+# 知识技能
+- 英语：CET-6，熟练阅读本专业学术文献
+- 计算机：全国计算机等级三级（网络技术）
+- Stata，熟练，进行应用计量经济学分析，撰写学术论文
+- R，熟练，数据整理和数据分析，使用R Markdown撰写动态报告
+- 掌握级别，可以按需补充学习：Python、Julia、LaTeX
+- 使用常用商业数据库：Wind，CSMAR，RESSET等
 
 ---
 
@@ -13,6 +22,11 @@ layout: default
 - [实证研究的项目化管理模板](https://github.com/chengjun90/empty_project)
 - [自编自用的R语言包](https://github.com/chengjun90/tidydata)
 - [markdown转pdf的脚本](https://github.com/chengjun90/markdown2pdf)
+
+# 主要专栏笔记
+- [资本市场与数据分析](https://zhuanlan.zhihu.com/staranalysts)
+- [Julia学习笔记](https://zhuanlan.zhihu.com/julia)
+- [R语言快报](https://zhuanlan.zhihu.com/rstats)
 
 ---
 
