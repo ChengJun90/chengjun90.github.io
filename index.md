@@ -12,7 +12,9 @@ layout: default
 - [自编自用的R语言包](https://github.com/chengjun90/tidydata)
 - [markdown转pdf的脚本](https://github.com/chengjun90/markdown2pdf)
 
-# [资本市场与数据分析-选集](https://zhuanlan.zhihu.com/staranalysts)
+# [资本市场与数据分析](https://zhuanlan.zhihu.com/staranalysts)
+*此处列示部分笔记*
+
 **学习笔记:**
 - [R语言进阶-非标准计算base](https://zhuanlan.zhihu.com/p/27652748)
 - [R语言进阶-非标准计算tidyeval](https://zhuanlan.zhihu.com/p/27652771)
@@ -38,7 +40,9 @@ layout: default
 - [简单的笔记脚本：从markdown到pdf](https://zhuanlan.zhihu.com/p/31982147)
 - [用sphinx快速编写一份技术手册](https://zhuanlan.zhihu.com/p/25688826)
 
-# [Julia学习笔记-选集](https://zhuanlan.zhihu.com/julia)
+# [Julia学习笔记](https://zhuanlan.zhihu.com/julia)
+*此处列示部分笔记*
+
 - [纯Julia编写普通最小二乘法(OLS)](https://zhuanlan.zhihu.com/p/28128470)
 - [Julia缺失值的表示和处理](https://zhuanlan.zhihu.com/p/30485472)
 - [Julia宏-@which](https://zhuanlan.zhihu.com/p/28641919)
@@ -51,6 +55,8 @@ layout: default
 - ……
 
 # [R语言快报-选集](https://zhuanlan.zhihu.com/rstats)
+*此处列示部分笔记*
+
 - [Rcpp for everyone](https://zhuanlan.zhihu.com/p/27720706)
 - [writexl：写excel文件速度更快](https://zhuanlan.zhihu.com/p/29188938)
 
