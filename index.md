@@ -7,10 +7,14 @@ layout: default
 - [Julia学习笔记](https://zhuanlan.zhihu.com/julia)
 - [R语言快报](https://zhuanlan.zhihu.com/rstats)
 
+---
+
 # 小工具
 - [实证研究的项目化管理模板](https://github.com/chengjun90/empty_project)
 - [自编自用的R语言包](https://github.com/chengjun90/tidydata)
 - [markdown转pdf的脚本](https://github.com/chengjun90/markdown2pdf)
+
+---
 
 # [资本市场与数据分析](https://zhuanlan.zhihu.com/staranalysts)
 *此处列示部分笔记*
@@ -40,6 +44,8 @@ layout: default
 - [简单的笔记脚本：从markdown到pdf](https://zhuanlan.zhihu.com/p/31982147)
 - [用sphinx快速编写一份技术手册](https://zhuanlan.zhihu.com/p/25688826)
 
+---
+
 # [Julia学习笔记](https://zhuanlan.zhihu.com/julia)
 *此处列示部分笔记*
 
@@ -54,12 +60,16 @@ layout: default
 - [回归分析](https://zhuanlan.zhihu.com/p/26440571)
 - ……
 
-# [R语言快报-选集](https://zhuanlan.zhihu.com/rstats)
+---
+
+# [R语言快报](https://zhuanlan.zhihu.com/rstats)
 *此处列示部分笔记*
 
 - [Rcpp for everyone](https://zhuanlan.zhihu.com/p/27720706)
 - [writexl：写excel文件速度更快](https://zhuanlan.zhihu.com/p/29188938)
 
+
+---
 
 # 博士阶段课程
 - **基础课**  
