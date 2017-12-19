@@ -56,19 +56,19 @@ layout: default
 
 
 # 博士阶段课程
-- 基础课  
+- **基础课**  
 高级微观经济学  
 高级计量经济学  
 高级管理学
 
-- 专业研究课  
+- **专业研究课**  
 资本市场与公司财务研究  
 公司财务研究前沿专题研讨  
 高级会计研究  
 会计与财务研究方法论  
 公司治理
 
-- 交流学者课   
+- **交流学者课**   
 Empirical research on financial reporting and disclosure  
 Empirical research in voluntary reporting  
 Seminars on corporate social responsibility
