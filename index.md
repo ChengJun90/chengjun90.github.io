@@ -84,7 +84,7 @@ layout: default
 会计与财务研究方法论  
 公司治理
 
-- **短期课程**   
+- **短期课程**  
 Empirical research on financial reporting and disclosure  
 Empirical research in voluntary reporting  
 Seminars on corporate social responsibility
