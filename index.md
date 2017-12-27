@@ -19,7 +19,7 @@ layout: default
 ---
 
 # 小工具
-- [实证研究的项目化管理模板](https://github.com/chengjun90/empty_project)
+- [实证研究的项目化管理模板](https://github.com/chengjun90/empty-project)
 - [自编自用的R语言包](https://github.com/chengjun90/tidydata)
 - [markdown转pdf的脚本](https://github.com/chengjun90/markdown2pdf)
 
