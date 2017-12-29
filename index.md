@@ -22,6 +22,7 @@ layout: default
 - [实证研究的项目化管理模板](https://github.com/chengjun90/empty-project)
 - [自编自用的R语言包](https://github.com/chengjun90/tidydata)
 - [markdown转pdf的脚本](https://github.com/chengjun90/markdown2pdf)
+- 发起和维护[Awesome Research Tools🛠](https://cheng-jun.gitbooks.io/awesome-research-tools/content/)
 
 # 主要专栏笔记
 - [资本市场与数据分析](https://zhuanlan.zhihu.com/staranalysts)
