@@ -19,10 +19,10 @@ layout: default
 ---
 
 # 小工具
-- [实证研究的项目化管理模板](https://github.com/chengjun90/empty-project)
-- [清洗数据小工具：tidytools](https://github.com/chengjun90/tidytools)
-- [markdown笔记转pdf的脚本](https://github.com/chengjun90/markdown2pdf)
-- 发起和维护[Awesome Research Tools🛠](https://cheng-jun.gitbooks.io/awesome-research-tools/content/)
+- 实证研究的项目化模板[empty-project](https://github.com/chengjun90/empty-project)
+- 清洗数据小工具[tidytools](https://github.com/chengjun90/tidytools)
+- markdown笔记转pdf的[脚本](https://github.com/chengjun90/markdown2pdf)
+- 用GitBook编写的小册子[Awesome Research Tools🛠](https://cheng-jun.gitbooks.io/awesome-research-tools/content/)
 
 # 主要专栏笔记
 - [资本市场与数据分析](https://zhuanlan.zhihu.com/staranalysts)
