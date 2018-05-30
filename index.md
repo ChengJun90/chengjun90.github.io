@@ -25,9 +25,8 @@ layout: default
 - 用GitBook编写的小册子[Awesome Research Tools🛠](https://cheng-jun.gitbooks.io/awesome-research-tools/content/)
 
 # 数据分析
-Advanced Statistical Programming for Data Science, Analysis and Finance系列教程的笔记：
-
-    - [R语言函数式编程阅读笔记](https://github.com/chengjun90/R-notes/tree/master/reading-notes/FP-in-R)
+Advanced Statistical Programming for Data Science, Analysis and Finance系列教程的笔记：  
+    - [R语言函数式编程阅读笔记](https://github.com/chengjun90/R-notes/tree/master/reading-notes/FP-in-R)  
     - [R语言元编程阅读笔记](https://github.com/chengjun90/R-notes/tree/master/reading-notes/metaprogramming-in-R)
 
 # 主要专栏笔记
